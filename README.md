@@ -1,5 +1,5 @@
 # imwifnf-tari-fanmade-executable
-based off of Kade Engine and the "If Mario Was In Friday Night Funkin" mod.
+based off of Psych Engine and the "If Mario Was In Friday Night Funkin" mod.
 
 its literally as simple as that, i almost dont even need a read me.
 
