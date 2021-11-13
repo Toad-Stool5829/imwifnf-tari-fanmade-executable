@@ -4,7 +4,7 @@ based off of Psych Engine and the "If Mario Was In Friday Night Funkin" mod.
 its literally as simple as that, i almost dont even need a read me.
 
 
-og title tari doesnt exist but i have something planned for that
+og title tari doesnt exist but i have something planned for that (if i can even do it lol)
 
 
 ORIGINAL MODS
