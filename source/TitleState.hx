@@ -84,7 +84,7 @@ class TitleState extends MusicBeatState
 		swagShader = new ColorSwap();
 		super.create();
 
-		FlxG.save.bind('funkin', 'ninjamuffin99');
+		FlxG.save.bind('funkin', 'smg4taripsych');
 		ClientPrefs.loadPrefs();
 
 		Highscore.load();
@@ -121,6 +121,7 @@ class TitleState extends MusicBeatState
 
 	var logoBl:FlxSprite;
 	var gfDance:FlxSprite;
+	var gfCheer:FlxSprite;
 	var danceLeft:Bool = false;
 	var titleText:FlxSprite;
 	var swagShader:ColorSwap = null;
@@ -181,6 +182,7 @@ class TitleState extends MusicBeatState
 			gfDance.frames = Paths.getSparrowAtlas('gfDanceTitle');
 			gfDance.animation.addByIndices('danceLeft', 'gfDance', [30, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], "", 24, false);
 			gfDance.animation.addByIndices('danceRight', 'gfDance', [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29], "", 24, false);
+			gfDance.animation.addByIndices('cheer', 'gfCheer', [30, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 0], "", 24, true);
 		}
 		else //Psyka easter egg
 		{
@@ -317,6 +319,8 @@ class TitleState extends MusicBeatState
 					MusicBeatState.switchState(new MainMenuState());
 					closedState = true;
 				});
+
+				gfDance.animation.play('cheer');
 				// FlxG.sound.play(Paths.music('titleShoot'), 0.7);
 			}
 			else if(easterEggEnabled)
@@ -443,7 +447,7 @@ class TitleState extends MusicBeatState
 				// credTextShit.text = 'In association \nwith';
 				// credTextShit.screenCenter();
 				case 5:
-					createCoolText(['Port by'], -60);
+					createCoolText(['Psych Version by'], -60);
 				case 7:
 					addMoreText('Toad Stool', -60);
 					logoSpr.visible = true;
