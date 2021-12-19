@@ -81,6 +81,8 @@ class Achievements {
 		// So yeah, if you didn't thought about that i'm smarter than you, i think
 
 		// buffoon
+
+		// EDIT 2: Uhh this is weird, this message was written for MInd Games, so it doesn't apply logically for Psych Engine LOL
 	}
 }
 
