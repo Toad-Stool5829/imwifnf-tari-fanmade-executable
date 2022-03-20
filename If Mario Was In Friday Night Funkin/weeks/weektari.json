@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Funky Fource", "dad", [146, 113, 253]],
+		["Sunset Paradise", "dad", [146, 113, 253]],
+		["Always Running", "belle", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "stage",
+
+	"storyName": "The Funk And The Dragon Lady",
+	"weekBefore": "week6",
+	"weekName": "Week Tari",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

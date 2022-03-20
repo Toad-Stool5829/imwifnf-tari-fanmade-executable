@@ -1,0 +1,15 @@
+Original Mod Creators
+SMG4::blank::Director/Producer and Sprite Artist::https://twitter.com/smg4official::0xFFFFDD33
+KevDevz::blank::Director/Producer::https://twitter.com/kevdevz::0xFFFFDD33
+AJ DiSpirito::blank::Composer::https://twitter.com/AJDiSpirito::0xFFFFDD33
+Cube The Penguin::blank::Sprite Animator and Coding::https://twitter.com/FM54321::0xFFFFDD33
+Weegeepie::blank::Charting and Coding::https://twitter.com/WeegeepieYT::0xFFFFDD33
+Rainder::blank::Sprite Artist::https://twitter.com/rainder_kaira::0xFFFFDD33
+SkylinDraws::blank::Background and Icon Artist::https://twitter.com/SkylinDraws::0xFFFFDD33
+Celeste Notley-Smith::blank::Tari\'s Voice::https://twitter.com/CelesteNotleyS::0xFFFFDD33
+Jessica Fallico::blank::Belle\'s Voice::::0xFFFFDD33
+Lizzie Freeman::blank::Meggy\'s Voice::https://twitter.com/LizzieRFreeman::0xFFFFDD33
+Shigeru Miyamoto::blank::Everything::::0xFFFFDD33
+
+Tari Port Team
+Toad Stool::blank::Ported Tari To Psych Engine::https://twitter.com/FunneBupMan::0xFFFFDD33
